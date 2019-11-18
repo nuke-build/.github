@@ -1,9 +1,5 @@
-<!--
+I confirm that the pull-request:
 
-RULES FOR PULL-REQUESTS:
-
-- Start from `develop` (or `master` if not available)
-- Use `rebase` over `merge`
-- Don't mind if the destination branch was force-pushed
-
--->
+- [ ] Follows the contribution guidelines
+- [ ] Is based on my own work
+- [ ] Is in compliance with my employer
