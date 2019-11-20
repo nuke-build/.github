@@ -1,24 +1,21 @@
 # Contribution Guidelines
 
-NUKE is a personal project that was made open-source to let as many individuals as possible have a benefit from it. We expect everyone to be a [good open-source citizen](https://hackernoon.com/being-a-good-open-source-citizen-9060d0ab9732) and to realize that [this is no place to make demands](https://mikemcquaid.com/2018/03/19/open-source-maintainers-owe-you-nothing/). As a community, we want to help each other, and make a better product. Of course, also our [code of conduct](CODE_OF_CONDUCT.md) must be followed at any time.
+NUKE is a personal project that was made open-source to let as many individuals as possible have a benefit from it. We expect everyone to be a [good open-source citizen](https://hackernoon.com/being-a-good-open-source-citizen-9060d0ab9732) and to realize that [this is no place to make demands](https://mikemcquaid.com/2018/03/19/open-source-maintainers-owe-you-nothing/). As a community, we want to help each other, and make a better product. Of course, our [code of conduct](CODE_OF_CONDUCT.md) must be followed at any time.
 
 ## Filing issues
-All issues should be filed on the [main repository](https://github.com/nuke-build/nuke/issues/new/choose). The best way to get your issue fixed is to obey the following rules 
- 
- bug fixed is to be as detailed as you can be about the problem. Providing a minimal example with steps to reproduce the problem is ideal.
-Here are questions you can answer before you file a bug to make sure you're not missing any important information.
 
-Also make sure:
+All issues should be filed on the [main repository](https://github.com/nuke-build/nuke/issues/new/choose). When creating an issue, please follow this list:
 
 1. Have you read the [documentation](https://nuke.build/docs/getting-started/philosophy.html)?
-1. Have you checked the [FAQ](https://nuke.build/docs/getting-started/faq.html)?
-2. Did you include the snippet of broken code in the issue?
+2. Have you checked the [FAQ](https://nuke.build/docs/getting-started/faq.html)?
+3. Did you include the snippet of broken code in the issue?
 4. Did you verify it is *NO* external tool issue?
-3. What are the *EXACT* steps to reproduce this problem?
+5. What are the *EXACT* steps to reproduce this problem?
 
-GitHub supports [markdown](http://github.github.com/github-flavored-markdown/), so when filing bugs make sure you check the formatting before clicking submit.
+GitHub supports [markdown](http://github.github.com/github-flavored-markdown/), so when filing issues make sure you check the formatting before clicking submit.
 
 ## Contributing code and content
+
 For non-trivial changes it is strongly recommended to get in touch with the team first. Before starting with a [pull-request](https://help.github.com/articles/using-pull-requests), please create a feature branch off from `master`. Get familiar with the project workflow and our coding conventions.
 
 Before submitting a feature or substantial code contribution please discuss it with the team and ensure it follows the product roadmap. Here's a list of blog posts that are worth reading before doing a pull request:
