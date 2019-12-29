@@ -21,5 +21,5 @@ code
 ### Relevant log output
 
 ```
-output
+output including version and stacktraces
 ```
