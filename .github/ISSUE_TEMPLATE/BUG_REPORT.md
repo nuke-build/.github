@@ -1,7 +1,7 @@
 ---
 name: Report a Bug
 about: Something that seems wrong
-labels: 'bug :beetle:, needs-triage :file_folder:'
+labels: 'bug :beetle:'
 assignees: matkoch
 
 ---
