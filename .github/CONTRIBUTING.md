@@ -16,7 +16,7 @@ GitHub supports [markdown](http://github.github.com/github-flavored-markdown/), 
 
 ## Contributing code and content
 
-For non-trivial changes it is strongly recommended to get in touch with the team first. Before starting with a [pull-request](https://help.github.com/articles/using-pull-requests), please create a feature branch off from `master`. Get familiar with the project workflow and our coding conventions.
+For non-trivial changes it is strongly recommended to get in touch with the team first. Before starting with a [pull-request](https://help.github.com/articles/using-pull-requests), please create a feature branch off from the default branch. Get familiar with the project workflow and our coding conventions.
 
 Before submitting a feature or substantial code contribution please discuss it with the team and ensure it follows the product roadmap. Here's a list of blog posts that are worth reading before doing a pull request:
 
