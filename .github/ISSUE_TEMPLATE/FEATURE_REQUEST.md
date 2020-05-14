@@ -2,7 +2,6 @@
 name: Request a Feature
 about: Tell us about your awesome idea
 labels: 'enhancement :sparkles:'
-assignees: matkoch
 
 ---
 
