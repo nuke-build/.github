@@ -2,7 +2,6 @@
 name: Report a Bug
 about: Something that seems wrong
 labels: 'bug :beetle:'
-assignees: matkoch
 
 ---
 
