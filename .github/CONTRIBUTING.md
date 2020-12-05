@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-NUKE is a personal project that was made open-source to let as many individuals as possible have a benefit from it. We expect everyone to be a [good open-source citizen](https://hackernoon.com/being-a-good-open-source-citizen-9060d0ab9732) and to realize that [this is no place to make demands](https://mikemcquaid.com/2018/03/19/open-source-maintainers-owe-you-nothing/). As a community, we want to help each other, and make a better product. Of course, our [code of conduct](CODE_OF_CONDUCT.md) must be followed at any time.
+NUKE is a personal project that was made open-source to let as many individuals as possible have a benefit from it. We expect everyone to be a [good open-source citizen](https://hackernoon.com/being-a-good-open-source-citizen-9060d0ab9732) and to realize that [this is not a place to make demands or express your disappointment](https://mikemcquaid.com/2018/03/19/open-source-maintainers-owe-you-nothing/). As a community, we want to help each other, provide constructive feedback, and make a better product. Of course, our [code of conduct](CODE_OF_CONDUCT.md) must be followed at any time.
 
 ## Filing issues
 
@@ -9,8 +9,9 @@ All issues should be filed on the [main repository](https://github.com/nuke-buil
 1. Have you read the [documentation](https://nuke.build/docs/getting-started/philosophy.html)?
 2. Have you checked the [FAQ](https://nuke.build/docs/getting-started/faq.html)?
 3. Did you include the snippet of broken code in the issue?
-4. Did you verify it is *NO* external tool issue?
-5. What are the *EXACT* steps to reproduce this problem?
+4. Did you verify it's not an external tool issue?
+5. What are the exact steps to reproduce this problem?
+6. No issues for additional CLT support or missing arguments. We expect pull-request instead as they can be easily declared using a [specification file](https://github.com/nuke-build/nuke/tree/develop/build/specifications), and otherwise aren't affecting the core functionality.
 
 GitHub supports [markdown](http://github.github.com/github-flavored-markdown/), so when filing issues make sure you check the formatting before clicking submit.
 
