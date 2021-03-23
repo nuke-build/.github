@@ -6,6 +6,6 @@ Force-pushes may happen on develop branch (due to the nature of testing CI featu
 
 I confirm that the pull-request:
 
-- [] Follows the contribution guidelines
-- [] Is based on my own work
-- [] Is in compliance with my employer
+- [ ] Follows the contribution guidelines
+- [ ] Is based on my own work
+- [ ] Is in compliance with my employer
