@@ -2,6 +2,8 @@
 
 NUKE is a personal project that was made open-source to let as many individuals as possible have a benefit from it. We expect everyone to be a [good open-source citizen](https://hackernoon.com/being-a-good-open-source-citizen-9060d0ab9732) and to realize that [this is not a place to make demands or express your disappointment](https://mikemcquaid.com/2018/03/19/open-source-maintainers-owe-you-nothing/). As a community, we want to help each other, provide constructive feedback, and make a better product. Of course, our [code of conduct](CODE_OF_CONDUCT.md) must be followed at any time.
 
+**It is expected that all developers using NUKE are either active sponsors ([GitHub](https://github.com/sponsors/matkoch), [OpenCollective](https://opencollective.com/nuke)) or greatly involved in any other recognized OSS project. This is particularly a requirement to create issues and pull-requests. Please don't take offense at this, since it is simply a time management decision.**
+
 ## Filing issues
 
 All issues should be filed on the [main repository](https://github.com/nuke-build/nuke/issues/new/choose). When creating an issue, please follow this list:
