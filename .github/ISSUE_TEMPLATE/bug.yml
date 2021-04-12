@@ -1,0 +1,22 @@
+name: Bug Report
+description: File a bug report
+labels: "bug"
+issue_body: true
+body:
+- type: markdown
+  attributes:
+    value: This form is for reporting bugs related to Issue Forms! For general feedback or feature requests, please use Discussions!
+- type: textarea
+  attributes:
+    label: Expected Behavior
+    description: What did you expect to happen?
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: What actually happened?
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Anything else we should know?
